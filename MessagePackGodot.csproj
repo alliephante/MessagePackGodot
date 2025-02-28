@@ -8,11 +8,11 @@
         <FileVersion>1.0.1</FileVersion>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Title>MessagePack for Godot Engine</Title>
-        <Authors>ashtronaut</Authors>
+        <Authors>alliephante</Authors>
         <Description>Adds MessagePack for C# support for Godot Engine structs</Description>
-        <Copyright>© ashtronaut</Copyright>
-        <PackageProjectUrl>https://github.com/theashtronaut/MessagePackGodot</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/theashtronaut/MessagePackGodot</RepositoryUrl>
+        <Copyright>© alliephante</Copyright>
+        <PackageProjectUrl>https://github.com/alliephante/MessagePackGodot</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/alliephante/MessagePackGodot</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageTags>MsgPack MessagePack Serialization Godot</PackageTags>
         <PackageReadmeFile>README.md</PackageReadmeFile>
